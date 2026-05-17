@@ -1,0 +1,3 @@
+RPi.GPIO
+# rgbmatrix is required for RGB LED matrix control.
+# Install it using the RGB Matrix library instructions for your Raspberry Pi setup.
